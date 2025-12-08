@@ -1,0 +1,7 @@
+Step daftarin finger
+1. Hapus dulu di admin solution
+2. Habis itu masuk ke finger
+3. Pilih menu user
+4. Pilih semua user
+5. kalo udah terdaftar tinggal ubah modenya aja jadi super admin
+6. Kalo belom terdaftar dipandu untuk cara daftar
